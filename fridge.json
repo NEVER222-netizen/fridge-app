@@ -1,0 +1,93 @@
+[
+  {
+    "name": "milk",
+    "barcode": "",
+    "expiry": "",
+    "category": "Dairy"
+  },
+  {
+    "name": "milk",
+    "barcode": "",
+    "expiry": ""
+  },
+  {
+    "name": "(unnamed item)",
+    "barcode": "",
+    "expiry": "",
+    "category": "Dairy"
+  },
+  {
+    "name": "(unnamed item)",
+    "barcode": "",
+    "expiry": "",
+    "category": "Dairy"
+  },
+  {
+    "name": "(unnamed item)",
+    "barcode": "",
+    "expiry": "",
+    "category": "Dairy"
+  },
+  {
+    "name": "buttet+",
+    "barcode": "",
+    "expiry": "",
+    "category": "Meat"
+  },
+  {
+    "name": "(unnamed item)",
+    "barcode": "9050482511151",
+    "expiry": ""
+  },
+  {
+    "name": "(unnamed item)",
+    "barcode": "21544804",
+    "expiry": "2026-01-27"
+  },
+  {
+    "name": "goods",
+    "barcode": "",
+    "expiry": "2026-01-29",
+    "category": "Dairy"
+  },
+  {
+    "name": "good",
+    "barcode": "",
+    "expiry": "2026-01-30"
+  },
+  {
+    "name": "milk",
+    "barcode": "",
+    "expiry": "",
+    "category": "Dairy"
+  },
+  {
+    "name": "milk",
+    "barcode": "",
+    "expiry": "",
+    "category": "Dairy"
+  },
+  {
+    "name": "bacon",
+    "barcode": "",
+    "expiry": "",
+    "category": "Meat"
+  },
+  {
+    "name": "Thai peanut noodle kit includes stir-fry rice noodles & thai peanut seasoning",
+    "barcode": "737628064502",
+    "expiry": "",
+    "category": "Dairy"
+  },
+  {
+    "name": "Malted+Milk",
+    "barcode": "4056489511151",
+    "expiry": "",
+    "category": "Other"
+  },
+  {
+    "name": "(unnamed item)",
+    "barcode": "",
+    "category": "Dairy"
+  }
+]
